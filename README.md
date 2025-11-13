@@ -15,3 +15,5 @@ Credit also goes to Wessley Roche, who made this [little Gist](https://gist.gith
 ## Final words
 
 I hope you enjoy this little ball.
+
+**A joke for you:** Why don't programmers like nature? It has too many bugs. But at least our ball doesn't have any... we hope! 🏀
